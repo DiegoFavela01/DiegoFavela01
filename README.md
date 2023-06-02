@@ -1,12 +1,10 @@
-Im Diego Favela,
-On my GitHub, you'll find various projects and repositories that demonstrate my growing expertise in finance and coding.
+Im Diego Favela, Welcome to my GitHub portfolio! Here you'll find various projects and repositories that demonstrate my growing expertise in finance and coding.
 ## Education
-- Currently
-  - B.S Economics at University of Texas at Austin (2025)
-- Completed
-  - Financial Technology Bootcamp at University of California, Berkeley.
+  - Currently pursuing a B.S. in Economics at the University of Texas at Austin (Class of 2025)
+  - Completed Financial Technology Bootcamp at the University of California, Berkeley.
 ## Financial Technology Bootcamp
 ### Financial Programing
+#### In this bootcamp, I acquired practical skills in financial programming and utilized Python and Pandas for data manipulation and analysis in financial projects. Here are some highlights:
 - Applied Python programming skills and utilized Pandas for data manipulation and analysis in financial projects, resulting in improved data accuracy and actionable insights.
 - Implemented statistical modeling techniques in finance to uncover patterns, forecast trends, and make informed investment decisions, leading to increased profitability.
 - Integrated APIs into Python applications to access real-time financial data, ensuring accurate and timely analysis for investment strategies and risk assessment.
@@ -25,6 +23,7 @@ On my GitHub, you'll find various projects and repositories that demonstrate my 
 
 
 ### Machine Learning Applications in Finance
+#### During the bootcamp, I also gained expertise in machine learning applications in finance. Here are some key areas I focused on:
 - Applied machine learning techniques in finance to develop algorithmic trading strategies, resulting in improved portfolio performance and increased profitability.
 - Utilized predictive modeling to forecast financial trends and classify financial data, enabling accurate risk assessment and informed decision-making.
 - Employed unsupervised learning techniques, such as clustering and dimensionality reduction, to identify market segments and reduce the complexity of financial data for enhanced analysis.
@@ -41,6 +40,7 @@ On my GitHub, you'll find various projects and repositories that demonstrate my 
 | [Robo Advisors](https://github.com/DiegoFavela01/Robo-Advisors) |
 
 ### Blockchain and Cryptocurrency
+#### In addition to finance and machine learning, I have also explored blockchain and cryptocurrency concepts. Here's what I've accomplished:
 - Developed and deployed smart contracts on the Ethereum blockchain platform, ensuring accuracy and efficiency in transaction handling and contract execution.
 - Utilized Solidity programming language to implement custom smart contracts, incorporating business logic and security measures to address specific requirements.
 - Demonstrated understanding of consensus algorithms, including proof of work (PoW) and proof of stake (PoS), and their implications for blockchain networks.
@@ -58,7 +58,7 @@ On my GitHub, you'll find various projects and repositories that demonstrate my 
 #### Projects
 - [Stock Investment Analysis Application](https://github.com/DiegoFavela01/Stock_Analysis_Recommendations)
 - [S&P 500 Stock Predictor](https://github.com/DiegoFavela01/Stock_Predictor)
-
+- [Portfolio Optimizer](https://github.com/DiegoFavela01/Portfolio_Optimizer)
 
 
 
