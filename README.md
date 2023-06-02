@@ -1,6 +1,6 @@
 Im Diego Favela, Welcome to my GitHub portfolio! Here you'll find various projects and repositories that demonstrate my growing expertise in finance and coding.
 ## Education
-  - Currently pursuing a B.S. in Economics at the University of Texas at Austin (Class of 2025)
+  - Currently pursuing a B.S. in Financial Mathematics at the University of Houston
   - Completed Financial Technology Bootcamp at the University of California, Berkeley.
 ## Financial Technology Bootcamp
 ### Financial Programing
