@@ -1,5 +1,4 @@
-# Welcome!
-## Check out my [Portfolio](https://diegofavela01.github.io/) to learn more about me
+# Welcome! <br> Check out my [Portfolio](https://diegofavela01.github.io/) to learn more about me
 
 ### [Financial Technology Bootcamp](https://github.com/DiegoFavela01/Financial-Technology-Bootcamp)
 At the University of California Berekely Financial Technology Bootcamp, I acquired practical skills in financial programming by utilizing Python. I have gained expertise in ML applications in finance like neural networks and algorithmic trading. Explored blockchain and cryptocurrency concepts. 
