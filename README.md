@@ -1,7 +1,5 @@
-# Welcome! <br> Check out my [Portfolio](https://diegofavela01.github.io/) to learn more about me
-
 ### [Financial Technology Bootcamp](https://github.com/DiegoFavela01/Financial-Technology-Bootcamp)
-At the University of California Berekely Financial Technology Bootcamp, I acquired practical skills in financial programming by utilizing Python. I have gained expertise in ML applications in finance like neural networks and algorithmic trading. Explored blockchain and cryptocurrency concepts. 
+At the University of California Berekely Financial Technology Bootcamp, I acquired practical skills in financial programming by utilizing Python. I have gained expertise in ML applications in finance, such as neural networks and algorithmic trading. I have also explored blockchain and cryptocurrency concepts. 
 
 ## PROJECTS
 
@@ -15,17 +13,6 @@ The S&P 500 Portfolio Optimization project showcases an advanced strategy that h
 - Implemented a dynamic allocation strategy, allowing the portfolio to adapt to changing market conditions.
 - Employed robust risk management measures to maintain portfolio stability while aligning volatility levels with the S&P 500 index, safeguarding against excessive risk exposure.
 - Backtested the strategy using historical data to assess its performance over different market cycles.
-
-### [Machine Learning S&P 500 Price Prediction](https://github.com/DiegoFavela01/Stock_Predictor)
-
-The Machine Learning S&P 500 Price Prediction project aims to forecast future price movements of the S&P 500 index by analyzing various data sources and utilizing machine learning algorithms.
-
-**Key Features:**
-- Developed and trained a neural network model to predict future price movements based on a combination of technical indicators, historical price data, and sentiment scores from social media platforms.
-- Utilized k-means clustering to categorize historical VIX (Volatility Index) data into "low," "medium," and "high" volatility levels for the S&P 500, aiding in better risk assessment.
-- Extracted essential technical indicators such as moving averages, RSI (Relative Strength Index), and other market indicators from historical S&P 500 data.
-- Conducted sentiment analysis on real-time Twitter data to assess market sentiment related to the S&P 500, enabling the incorporation of investor sentiment as a factor in the price prediction model.
-- Evaluated the model's performance using appropriate metrics and fine-tuned its hyperparameters to improve accuracy.
 
 ### [Stock Investment Analysis Application](https://github.com/DiegoFavela01/Stock_Analysis_Recommendations)
 
